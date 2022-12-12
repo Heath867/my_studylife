@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="mmyolo" remoteFilesAllowedToDisappearOnAutoupload="false" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="YYT@172.21.144.45:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/storage/YYT/mmdetection-master" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="YYT@172.21.144.45:22 password (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/storage/YYT/mmyolo" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="mmyolo">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/workdir" local="$PROJECT_DIR$/mmyolo" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="sign_dete">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mmdetection-master/yyt_workdir" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
