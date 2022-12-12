@@ -101,7 +101,7 @@ def image_hist(image):
 
 
 if __name__ == '__main__':
-    img = cv.imread('preprog/result19482.jpg')
+    img = cv.imread('./result19482.jpg')
     # start_time = time.perf_counter()
     # newimg = t2ftransI(img)
     # end_time = time.perf_counter()
